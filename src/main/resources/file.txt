@@ -1,0 +1,12 @@
+Storm is a free and open source distributed real-time computation system. 
+Storm makes it easy to reliably process real-time streams of data, 
+doing for real-time processing what Hadoop did for batch processing. 
+Storm is simple, can be used with any programming language, 
+and is a lot of fun to use!
+
+Storm has many use cases: real-time analytics, 
+online machine learning, continuous computation, 
+distributed RPC, ETL, and more. Storm is fast: 
+a benchmark clocked it at over a million tuples processed per second per node. 
+It is scalable, fault-tolerant, guarantees your data will be processed, 
+and is easy to set up and operate.
